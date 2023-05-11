@@ -1,0 +1,47 @@
+{
+
+    "short_name": "Pokemons",
+    "name":"Pagina de tipos de Pokemons",
+    "start_url":"index.html",
+    "background_color": "#AFEEEE",
+    "display": "standalone",
+    "orientation":"portrait",
+    "theme_color":"#10ff8d",
+    "icons":[
+
+        {
+            "src": "img/icono/p1.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "img/icono/p2.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+    
+        {
+            "src": "img/icono/p3.png",
+            "type": "/img/image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "img/icono/p4.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "img/icono/p5.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "img/icono/p6.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+        
+    ]
+
+
+}
